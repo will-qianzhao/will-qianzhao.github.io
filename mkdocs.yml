@@ -1,0 +1,7 @@
+site_name: Will-Qian Zhao
+nav:
+    - Home: index.md
+    - Experiences: experiences.md
+    - Publication: publication.md
+    - Software: software.md
+theme: flatly
