@@ -3,6 +3,6 @@ nav:
     - Home: index.md
     - Experiences: experiences.md
     - Publication: publication.md
-    - Software: software.md
+    - Projects: projects.md
     - Contact: contact.md
 theme: flatly
