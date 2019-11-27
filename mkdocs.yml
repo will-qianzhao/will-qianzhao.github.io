@@ -4,4 +4,5 @@ nav:
     - Experiences: experiences.md
     - Publication: publication.md
     - Software: software.md
+    - Contact: contact.md
 theme: flatly
