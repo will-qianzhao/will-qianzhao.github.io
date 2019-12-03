@@ -23,7 +23,6 @@
 
 - October 2012 - July 2013, Full-time in Baidu Inc., Beijing, China
     - R&D Engineer in Sponsored Ads Model Group
-    - Worked on feature engineering for Click-Through Rate prediction
 - July 2010 - August 2012, Full-time in Funshion Online Technologies Co., Ltd, Beijing, China
-    - R&D Engineer in Data Mining Group working on Funshion Video Recommendation System
+    - Team Leader of Data Mining Group
 - Sept. 2006 - July 2010, B.E. in Software Engineering, Nankai University, Tianjin, China
