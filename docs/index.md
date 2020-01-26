@@ -11,6 +11,8 @@ I'm currently a Senior Research Engineer in Artificial Intelligence Group, [Bloo
 
 #### Professional Services
 
+- 2020
+    - Program Committee member for _SIGIR 2020_
 - 2019
     - Program Committee member for _CSCW 2020_ (as an Associate Chair)
     - Program Committee member for _WSDM 2020_, _TheWebConf 2020_, _RecSys 2019_
