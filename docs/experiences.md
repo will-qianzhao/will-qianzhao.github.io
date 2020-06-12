@@ -2,7 +2,7 @@
 #### After Ph.D.
 
 - July 2018 - now, Full-time in Bloomberg L.P., New York, United States
-    - Senior Research Engineer in Artificial Intelligence Group
+    - Team Lead in the Artificial Intelligence Group
 
 #### During Ph.D.
 

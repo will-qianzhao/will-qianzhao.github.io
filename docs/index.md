@@ -3,7 +3,7 @@
 
 ![My photo](img/Qian-Picture.png "My Photo")
 
-I'm currently a Senior Research Engineer in Artificial Intelligence Group, [Bloomberg LP](https://www.bloomberg.com/professional/solution/bloomberg-terminal/). I graduated with a Ph.D. from [GroupLens lab](https://grouplens.org), Computer Science, at the University of Minnesota in May 2018, advised by [Prof. Joe Konstan](http://konstan.umn.edu). My research interests are **recommender systems**, **social computing**, **human-computer interaction** and **machine learning**. My research goal is to bring human factors of attention, perception, decision-making, goal-directed and contextualized information needs into the statistical or computational models of social information systems. My research employs mixed-method approaches, by understanding prominent user factors from theory, lab experiments and field studies; developing algorithms that take account of those factors; and evaluating their effects on user experience through field experiments.
+I'm currently leading a team in the Artificial Intelligence Group at [Bloomberg LP](https://www.bloomberg.com/professional/solution/bloomberg-terminal/), focused on interactive machine learning and human-AI collaboration. I graduated with a Ph.D. from [GroupLens lab](https://grouplens.org), Computer Science, at the University of Minnesota in May 2018, advised by [Prof. Joe Konstan](http://konstan.umn.edu). My research interests are **recommender systems**, **social computing**, **human-computer interaction** and **interactive machine learning**. 
 
 ### Recent News 
 
