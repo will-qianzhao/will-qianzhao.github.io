@@ -28,6 +28,7 @@ I'm currently leading a team in the Artificial Intelligence Group at [Bloomberg 
 
 #### Conference Attendence
 
+- 9/2020 at _RecSys'20_
 - 9/2019 at _RecSys'19_
     - [Talk slides on "From Preference Into Decision Making: Modeling Interactions in Recommender Systems"](slides/recsys19.pdf)
 - 5/2019 at _ICML'19_

@@ -1,6 +1,8 @@
 
 #### Conference
 
+- Kotkov, D., **Zhao, Q.**, Launis, K. and Neovius, M., 2020, September. [ClusterExplorer: Enable User Control over Related Recommendations via Collaborative Filtering and Clustering](https://dl.acm.org/doi/abs/10.1145/3383313.3412221). In _Fourteenth ACM Conference on Recommender Systems (RecSys'20)_ (pp. 432-437).
+- Wang, H., **Zhao, Q.**, Wu, Q., Chopra, S., Khaitan, A. and Wang, H., 2020, September. [Global and Local Differential Privacy for Collaborative Bandits](https://dl.acm.org/doi/abs/10.1145/3383313.3412254). In _Fourteenth ACM Conference on Recommender Systems (RecSys'20)_ (pp. 150-159).
 - **Zhao, Qian**, Martijn Willemsen, Gediminas Adomavicius, F. Maxwell Harper, Joseph A. Konstan. 2019. [From Preference into Decision Making: Modeling User Interactions in Recommender Systems](pubs/zhao2019recsys.pdf). In _Proceedings of The 13th ACM Conference on Recommender Systems (RecSys ’19)_. ACM, New York, NY, USA.
 - **Zhao, Qian**, Martijn Willemsen, Gediminas Adomavicius, F. Maxwell Harper, Joseph A. Konstan. 2018. [Interpreting User Inaction in Recommender Systems](pubs/zhao2018recsys-a.pdf). In _Proceedings of The 12th ACM Conference on Recommender Systems (RecSys ’18)_. ACM, New York, NY, USA.
 - **Zhao, Qian**, Jilin Chen, Minmin Chen, Sagar Jain, Alex Beutel, Francois Belletti, Ed Chi. 2018. [Categorical-Attributes-Based Item Classification for Recommender Systems](pubs/zhao2018recsys-b.pdf). In _Proceedings of The 12th ACM Conference on Recommender Systems (RecSys ’18)_. ACM, New York, NY, USA.
