@@ -11,6 +11,9 @@ I'm currently leading a team in the Artificial Intelligence Group at [Bloomberg 
 
 #### Professional Services
 
+- 2021
+    - Senior Program Committee member for _RecSys 2021_
+    - Program Committee member for _SIGIR 2021_
 - 2020
     - Program Committee member for _SIGIR 2020_
 - 2019
