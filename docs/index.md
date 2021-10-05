@@ -3,7 +3,7 @@
 
 ![My photo](img/Qian-Picture.png "My Photo")
 
-I'm currently leading a team in the Artificial Intelligence Group at [Bloomberg LP](https://www.bloomberg.com/professional/solution/bloomberg-terminal/), focused on interactive machine learning and human-AI collaboration. I graduated with a Ph.D. from [GroupLens lab](https://grouplens.org), Computer Science, at the University of Minnesota in May 2018, advised by [Prof. Joe Konstan](http://konstan.umn.edu). My research interests are **recommender systems**, **social computing**, **human-computer interaction** and **interactive machine learning**. 
+I'm leading a team in the Artificial Intelligence Group at [Bloomberg LP](https://www.bloomberg.com/professional/solution/bloomberg-terminal/), focused on the applications and systems of machine learning and human-AI collaboration. I graduated with a Ph.D. from [GroupLens lab](https://grouplens.org), Computer Science, at the University of Minnesota in May 2018, advised by [Prof. Joe Konstan](http://konstan.umn.edu). My research interests are **recommender systems**, **machine learning**, **social computing**, and **human-computer interaction**.
 
 ### Recent News 
 
@@ -12,6 +12,7 @@ I'm currently leading a team in the Artificial Intelligence Group at [Bloomberg 
 #### Professional Services
 
 - 2021
+    - Program Committee member for _TheWebConf 2022_
     - Senior Program Committee member for _RecSys 2021_
     - Program Committee member for _SIGIR 2021_
 - 2020
@@ -31,6 +32,7 @@ I'm currently leading a team in the Artificial Intelligence Group at [Bloomberg 
 
 #### Conference Attendence
 
+- 9/2021 at _RecSys'21_
 - 9/2020 at _RecSys'20_
 - 9/2019 at _RecSys'19_
     - [Talk slides on "From Preference Into Decision Making: Modeling Interactions in Recommender Systems"](slides/recsys19.pdf)
