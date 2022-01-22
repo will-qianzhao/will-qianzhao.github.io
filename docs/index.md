@@ -3,7 +3,7 @@
 
 ![My photo](img/Qian-Picture.png "My Photo")
 
-I'm leading a team in the Artificial Intelligence Group at [Bloomberg LP](https://www.bloomberg.com/professional/solution/bloomberg-terminal/), focused on the applications and systems of machine learning and human-AI collaboration. I graduated with a Ph.D. from [GroupLens lab](https://grouplens.org), Computer Science, at the University of Minnesota in May 2018, advised by [Prof. Joe Konstan](http://konstan.umn.edu). My research interests are **recommender systems**, **machine learning**, **social computing**, and **human-computer interaction**.
+I'm leading a few teams in the Artificial Intelligence Group at [Bloomberg LP](https://www.bloomberg.com/professional/solution/bloomberg-terminal/), working on the research and development of machine learning applications and tools, services for enabling human-AI collaboration. I graduated with a Ph.D. from [GroupLens lab](https://grouplens.org), Computer Science, at the University of Minnesota in May 2018, advised by [Prof. Joe Konstan](http://konstan.umn.edu). My research interests lie at the intersection of **machine learning** and **human-computer interaction**.
 
 ### Recent News 
 
