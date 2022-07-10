@@ -3,14 +3,17 @@
 
 ![My photo](img/Qian-Picture.png "My Photo")
 
-I'm leading a few scrum teams in the Artificial Intelligence Group at [Bloomberg LP](https://www.bloomberg.com/professional/solution/bloomberg-terminal/), working on the research and development of machine learning applications and tools, services for enabling human-AI collaboration. I graduated with a Ph.D. from [GroupLens lab](https://grouplens.org), Computer Science, at the University of Minnesota in May 2018, advised by [Prof. Joe Konstan](http://konstan.umn.edu). My research interests lie at the intersection of **machine learning** and **human-computer interaction**.
+Qian Zhao is a team lead in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group, which consists of 200+ researchers and engineers responsible for building financial solutions using technologies from Machine Learning, Natural Language Processing, Dialog Understanding, Graph Analytics, Time Series Analysis, Information Retrieval, Recommendation Systems, Speech Recognition, Computer Vision, and Optimization. Some of the products the AI Group helps build include News, Research, Communications, and Finance. Bloomberg's AI Engineering group is an active contributor to the academic community; its researchers have published more than 100 peer-reviewed papers in the last three years.
+
+Before joining Bloomberg, Qian earned his Ph.D. in computer science from [the GroupLens lab](https://grouplens.org) at the University of Minnesota, where he was advised by [Professor Joe Konstan](http://konstan.umn.edu). Qian's research interests lie broadly at the intersection of machine learning and human-computer interaction (e.g., user-centered design and evaluation of online interactive recommender systems). Before that, he worked in industry in China for a few years, where he focused on large-scale data mining and machine learning systems for video recommendation and computational advertising products.
 
 ### Recent News 
 
 ---
 
 #### Professional Services
-
+- 2022
+    - Proceedings Co-Chair for _RecSys 2022_
 - 2021
     - Program Committee member for _TheWebConf 2022_
     - Senior Program Committee member for _RecSys 2021_
@@ -32,6 +35,8 @@ I'm leading a few scrum teams in the Artificial Intelligence Group at [Bloomberg
 
 #### Conference Attendence
 
+- 9/2022 at _RecSys'22_
+- 7/2022 at _NAACL'22_
 - 9/2021 at _RecSys'21_
 - 9/2020 at _RecSys'20_
 - 9/2019 at _RecSys'19_
