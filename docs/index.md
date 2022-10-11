@@ -36,6 +36,7 @@ Before joining Bloomberg, Qian earned his Ph.D. in computer science from [the Gr
 #### Conference Attendence
 
 - 9/2022 at _RecSys'22_
+    - Invited keynote talk _"AI and Recommender Systems for the Capital Markets"_ for the [FinRec workshop](https://finrecsys.github.io/Program.html).
 - 7/2022 at _NAACL'22_
 - 9/2021 at _RecSys'21_
 - 9/2020 at _RecSys'20_
