@@ -12,6 +12,8 @@ Before joining Bloomberg, Qian earned his Ph.D. in computer science from [the Gr
 ---
 
 #### Professional Services
+- 2023
+    - Senior Program Committee member for _RecSys 2023_
 - 2022
     - Proceedings Co-Chair for _RecSys 2022_
 - 2021
