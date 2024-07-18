@@ -2,7 +2,7 @@
 #### After Ph.D.
 
 - April 2020 - now, Full-time at Bloomberg L.P., New York, United States
-    - Engineering Team Lead in the Artificial Intelligence group
+    - Engineering Manager in the Artificial Intelligence group
 
 - July 2018 - March 2020, Full-time at Bloomberg L.P., New York, United States
     - Senior Research Engineer in the Artificial Intelligence group
