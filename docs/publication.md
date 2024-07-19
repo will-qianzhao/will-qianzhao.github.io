@@ -1,7 +1,7 @@
 
 #### Conference
 
-- Bhowmik, R., Ponza, M., Tendle, A., Gupta, A., Jiang, R., Lu, X., **Zhao, Q.** and Preotiuc-Pietro, D., 2023. Leveraging Contextual Information for Effective Entity Salience Detection. [arXiv preprint arXiv:2309.07990](https://arxiv.org/pdf/2309.07990).
+- Bhowmik, R., Ponza, M., Tendle, A., Gupta, A., Jiang, R., Lu, X., **Zhao, Q.** and Preoţiuc-Pietro, D., 2024, June. [Leveraging Contextual Information for Effective Entity Salience Detection](https://arxiv.org/abs/2309.07990). In Findings of the Association for Computational Linguistics: NAACL 2024 (pp. 395-408).
 - Kotkov, D., **Zhao, Q.**, Launis, K. and Neovius, M., 2020, September. [ClusterExplorer: Enable User Control over Related Recommendations via Collaborative Filtering and Clustering](https://dl.acm.org/doi/abs/10.1145/3383313.3412221). In _Fourteenth ACM Conference on Recommender Systems (RecSys'20)_ (pp. 432-437).
 - Wang, H., **Zhao, Q.**, Wu, Q., Chopra, S., Khaitan, A. and Wang, H., 2020, September. [Global and Local Differential Privacy for Collaborative Bandits](https://dl.acm.org/doi/abs/10.1145/3383313.3412254). In _Fourteenth ACM Conference on Recommender Systems (RecSys'20)_ (pp. 150-159).
 - **Zhao, Qian**, Martijn Willemsen, Gediminas Adomavicius, F. Maxwell Harper, Joseph A. Konstan. 2019. [From Preference into Decision Making: Modeling User Interactions in Recommender Systems](pubs/zhao2019recsys.pdf). In _Proceedings of The 13th ACM Conference on Recommender Systems (RecSys ’19)_. ACM, New York, NY, USA.
