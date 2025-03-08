@@ -1,11 +1,9 @@
 
-#### To add
+#### NLP at Bloomberg AI
 
-#### At Bloomberg AI
-
-- News & events recommendation
-- News & research documents NER/NED/Salience for companies & people entities
-- News & research documents topic classification
+- Recommendation & classification
+- NER/NED/Salience
+- Topic classification
 - Human-AI collaboration for continual training of production NLP models
 - Sequence tagging, slot-filling, structure extraction from dialogue texts
 - Pretraining and fine-tuning of LLMs
