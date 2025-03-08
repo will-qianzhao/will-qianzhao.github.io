@@ -5,7 +5,7 @@
 - NER/NED/Salience
 - Topic classification
 - Human-AI collaboration for continual training of production NLP models
-- Sequence tagging, slot-filling, structure extraction from dialogue texts
+- Sequence tagging, slot-filling, structure extraction from texts
 - Pretraining and fine-tuning of LLMs
 
 #### Recommender Systems at GroupLens
