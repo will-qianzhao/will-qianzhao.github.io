@@ -1,7 +1,7 @@
 
 ### About Me
 
-Qian (or Will) Zhao is a researcher and entrepreneur in the fields of recommender systems, NLP/AI and social computing.
+Qian Zhao is a researcher and entrepreneur in the fields of recommender systems, NLP/AI and social computing.
 
 Before embarking on his entrepreneurial journey, he was a senior research engineer and engineering team leader in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group, which then consists of 200+ researchers and engineers responsible for building financial solutions using technologies from Machine Learning, Natural Language Processing, Dialog Understanding, Graph Analytics, Time Series Analysis, Information Retrieval, Recommendation Systems, Speech Recognition, Computer Vision, and Optimization.
 
