@@ -1,8 +1,11 @@
 
 #### After Ph.D.
 
-- April 2020 - now, Full-time at Bloomberg L.P., New York, United States
-    - Engineering Manager in the Artificial Intelligence group
+- March 2025 - Now, Researcher and Entrepreneur, California, United States
+    - In the fields of Recommender Systems, NLP/AI, Social Computing
+
+- April 2020 - Feburary 2025, Full-time at Bloomberg L.P., New York, United States
+    - Engineering Team Leader & Senior Research Engineer in the Artificial Intelligence group
 
 - July 2018 - March 2020, Full-time at Bloomberg L.P., New York, United States
     - Senior Research Engineer in the Artificial Intelligence group

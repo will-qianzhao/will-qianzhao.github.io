@@ -1,15 +1,19 @@
 
-###  Qian Zhao
+### About Me
 
-Qian Zhao is an engineering manager in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group, which consists of 200+ researchers and engineers responsible for building financial solutions using technologies from Machine Learning, Natural Language Processing, Dialog Understanding, Graph Analytics, Time Series Analysis, Information Retrieval, Recommendation Systems, Speech Recognition, Computer Vision, and Optimization. Some of the products the AI Group helps build include News, Research, Communications, and Finance. Bloomberg's AI Engineering group is an active contributor to the academic community; its researchers have published more than 100 peer-reviewed papers in the last three years.
+Qian (or Will) Zhao is a researcher and entrepreneur in the fields of recommender systems, NLP/AI and social computing.
 
-Before joining Bloomberg, Qian earned his Ph.D. in computer science from [the GroupLens lab](https://grouplens.org) at the University of Minnesota, where he was advised by [Professor Joe Konstan](http://konstan.umn.edu). Qian's research interests lie broadly at the intersection of machine learning and human-computer interaction (e.g., user-centered design and evaluation of online interactive recommender systems). Before that, he worked in industry in China for a few years, where he focused on large-scale data mining and machine learning systems for video recommendation and computational advertising products.
+Before embarking on his entrepreneurial journey, he was a senior research engineer and engineering team leader in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group, which then consists of 200+ researchers and engineers responsible for building financial solutions using technologies from Machine Learning, Natural Language Processing, Dialog Understanding, Graph Analytics, Time Series Analysis, Information Retrieval, Recommendation Systems, Speech Recognition, Computer Vision, and Optimization.
+
+Qian earned his Ph.D. in computer science from [the GroupLens lab](https://grouplens.org) at the University of Minnesota, where he was advised by [Professor Joe Konstan](http://konstan.umn.edu). Qian's research interests lie broadly at the intersection of machine learning and human-computer interaction (e.g., user-centered design and evaluation of online interactive recommender systems). Before that, he worked in industry in China for a few years, where he focused on large-scale data mining and machine learning systems for video recommendation and computational advertising products.
 
 ### Recent News 
 
 ---
 
 #### Professional Services
+- 2025
+    - Senior Program Committee member for _RecSys 2025_
 - 2024
     - Senior Program Committee member for _RecSys 2024_
     - Program Committee member for _RecSys 2024_ Industry Track

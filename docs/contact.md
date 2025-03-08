@@ -1,8 +1,12 @@
 
 #### Email
 
-Feel free to drop me a message at qzhao2018@gmail.com or qzhao101@bloomberg.net if you want to chat.
+Feel free to drop me a message at qzhao2018@gmail.com.
 
-#### Office
+#### LinkedIn
 
-Bloomberg office at 919 3rd Ave, New York, NY 10022
+https://www.linkedin.com/in/qzhao2018/
+
+#### Google Scholar
+
+https://scholar.google.com/citations?user=vGa8_ukAAAAJ&hl=en
