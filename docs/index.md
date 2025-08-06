@@ -32,12 +32,7 @@ Qian earned his Ph.D. in computer science from [the GroupLens lab](https://group
     - Reviewer for _CSCW 2019_, _Transactions on Knowledge and Data Engineering_
 - 2018
     - Program Committee member for _WSDM 2019_ (recognized as an **Outstanding PC member**)
-    - Reviewer for the _Journal of Intelligent Information Systems_
-- 2017
-    - Reviewer for _Data Mining and Knowledge Discovery, Springer_
-    - Reviewer for _AAAI 2018, RecSys 2017, TVX 2017, IDC 2017_
-- 2016
-    - Reviewer for _RecSys 2016, CIKM 2016_
+- ...
 
 ### Talks
 
