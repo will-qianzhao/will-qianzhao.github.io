@@ -3,7 +3,7 @@
 
 Qian Zhao is a researcher, engineer and entrepreneur in the fields of NLP/GenAI, Machine Learning and Recommender Systems.
 
-Currently, he's the founder of [Creator Incubation Research](https://creatorincubationresearch/projects) in the Los Angeles area, California. The company was founded to build AI-driven products with the latest technologies and conduct scientific research about them. 
+Currently, he's the founder of [Creator Incubation Research](https://creatorincubationresearch.com/projects) in the Los Angeles area, California. The company was founded to build AI-driven products with the latest technologies and conduct scientific research about them. 
 
 Before founding Creator Incubation Research, Qian was an AI engineering manager/team leader and senior researcher/engineer in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group, leading teams to build, serve and maintain production LLMs/NLP models for various products in the financial data domain (e.g., news and research documents enrichement, security offer extraction from communication messages). 
 

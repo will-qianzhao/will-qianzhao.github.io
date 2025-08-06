@@ -2,11 +2,10 @@
 #### After Ph.D.
 
 - March 2025 - Now, Founder and Managing Member of Creator Incubation Research, California, United States
-    - See creatorincubationresearch.com/projects.
-
+    - See [creatorincubationresearch.com/projects](https://creatorincubationresearch.com/projects).
 - July 2018 - Feburary 2025, Full-time at Bloomberg AI, New York, United States
     - AI Team Lead/Engineering Manager, Senior Researcher/Engineer in the Artificial Intelligence group
-    - See https://will-qianzhao.github.io/projects.
+    - See [will-qianzhao.github.io/projects](https://will-qianzhao.github.io/projects/).
 
 
 #### During Ph.D.
