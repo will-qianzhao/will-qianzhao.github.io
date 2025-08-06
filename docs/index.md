@@ -1,17 +1,16 @@
 
 ### About Me
 
-Qian Zhao is a researcher and entrepreneur in the fields of recommender systems, NLP/AI and social computing.
+Qian Zhao is a researcher, engineer and entrepreneur in the fields of NLP/GenAI, Machine Learning and Recommender Systems.
 
-Before embarking on his entrepreneurial journey, he was a senior research engineer and engineering team leader in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group, which then consists of 200+ researchers and engineers responsible for building financial solutions using technologies from Machine Learning, Natural Language Processing, Dialog Understanding, Graph Analytics, Time Series Analysis, Information Retrieval, Recommendation Systems, Speech Recognition, Computer Vision, and Optimization.
+Currently, he's the founder of [Creator Incubation Research](https://creatorincubationresearch/projects) in the Los Angeles area, California. The company was founded to build AI-driven products with the latest technologies and conduct scientific research about them. 
+
+Before founding Creator Incubation Research, Qian was an AI engineering manager/team leader and senior researcher/engineer in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group, leading teams to build, serve and maintain production LLMs/NLP models for various products in the financial data domain (e.g., news and research documents enrichement, security offer extraction from communication messages). 
 
 Qian earned his Ph.D. in computer science from [the GroupLens lab](https://grouplens.org) at the University of Minnesota, where he was advised by [Professor Joe Konstan](http://konstan.umn.edu). Qian's research interests lie broadly at the intersection of machine learning and human-computer interaction (e.g., user-centered design and evaluation of online interactive recommender systems). Before that, he worked in industry in China for a few years, where he focused on large-scale data mining and machine learning systems for video recommendation and computational advertising products.
 
-### Recent News 
+### Professional Services
 
----
-
-#### Professional Services
 - 2025
     - Senior Program Committee member for _RecSys 2025_
 - 2024
@@ -40,16 +39,12 @@ Qian earned his Ph.D. in computer science from [the GroupLens lab](https://group
 - 2016
     - Reviewer for _RecSys 2016, CIKM 2016_
 
-#### Conference Attendence
+### Invited Talks
 
 - 9/2022 at _RecSys'22_
     - Invited keynote talk _"AI and Recommender Systems for the Capital Markets"_ for the [FinRec workshop](https://finrecsys.github.io/Program.html).
-- 7/2022 at _NAACL'22_
-- 9/2021 at _RecSys'21_
-- 9/2020 at _RecSys'20_
 - 9/2019 at _RecSys'19_
     - [Talk slides on "From Preference Into Decision Making: Modeling Interactions in Recommender Systems"](slides/recsys19.pdf)
-- 5/2019 at _ICML'19_
 - 9/2018 at _RecSys'18_
     - [Talk slides on "Interpreting User Inaction in Recommender Systems"](slides/recsys18-a.pdf)
     - [Talk slides on "Categorical-Attributes-Based Item Classification for Recommender Systems"](slides/recsys18-b.pdf)
