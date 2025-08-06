@@ -36,6 +36,8 @@ Qian earned his Ph.D. in computer science from [the GroupLens lab](https://group
 
 ### Talks
 
+- 11/2024 at _RecSys'24_
+    - Invited keynote talk _"User-Centric Research on Financial Recommender Systems"_ for the [ICAIF Workshop on Machine Learning for Financial Wellness](https://sites.google.com/view/ml-for-financial-wellness/speakers).
 - 9/2022 at _RecSys'22_
     - Invited keynote talk _"AI and Recommender Systems for the Capital Markets"_ for the [FinRec workshop](https://finrecsys.github.io/Program.html).
 - 9/2019 at _RecSys'19_
