@@ -1,15 +1,15 @@
 
-### About Me
+### About Qian
 
 Qian Zhao is a researcher, engineer and entrepreneur in the fields of NLP/GenAI, Machine Learning and Recommender Systems.
 
 Currently, he's the founder of [Creator Incubation Research](https://creatorincubationresearch.com/projects) in the Los Angeles area, California. The company was founded to build AI-driven products with the latest technologies and conduct scientific research about them. 
 
-Before founding Creator Incubation Research, Qian was an AI engineering manager/team leader and senior researcher/engineer in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group, leading teams to build, serve and maintain production LLMs/NLP models for various products in the financial data domain (e.g., news and research documents enrichement, security offer extraction from communication messages). 
+Before founding Creator Incubation Research, Qian was an AI engineering manager/team leader and senior researcher/engineer in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group, leading teams to gather high-quality annotation data, train, serve and maintain production LLMs/NLP models for various products in the financial data domain (e.g., news and research documents enrichement, security offer extraction from communication messages). 
 
 Qian earned his Ph.D. in computer science from [the GroupLens lab](https://grouplens.org) at the University of Minnesota, where he was advised by [Professor Joe Konstan](http://konstan.umn.edu). Qian's research interests lie broadly at the intersection of machine learning and human-computer interaction (e.g., user-centered design and evaluation of online interactive recommender systems). Before that, he worked in industry in China for a few years, where he focused on large-scale data mining and machine learning systems for video recommendation and computational advertising products.
 
-### Professional Services
+### Services
 
 - 2025
     - Senior Program Committee member for _RecSys 2025_
@@ -39,7 +39,7 @@ Qian earned his Ph.D. in computer science from [the GroupLens lab](https://group
 - 2016
     - Reviewer for _RecSys 2016, CIKM 2016_
 
-### Invited Talks
+### Talks
 
 - 9/2022 at _RecSys'22_
     - Invited keynote talk _"AI and Recommender Systems for the Capital Markets"_ for the [FinRec workshop](https://finrecsys.github.io/Program.html).
