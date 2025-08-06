@@ -10,9 +10,10 @@
 
 #### Recommender Systems at GroupLens
 
-- A generic recommender and predictor server.
-- GitHub Link: [https://github.com/grouplens/samantha](https://github.com/grouplens/samantha)
-- Website Link: [https://grouplens.github.io/samantha](https://grouplens.github.io/samantha)
+* See [my publications](https://will-qianzhao.github.io/publication/).
+* A generic recommender and predictor server.
+    - GitHub Link: [https://github.com/grouplens/samantha](https://github.com/grouplens/samantha)
+    - Website Link: [https://grouplens.github.io/samantha](https://grouplens.github.io/samantha)
 
 #### Other Projects
 
