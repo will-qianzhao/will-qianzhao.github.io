@@ -1,5 +1,5 @@
 
-#### NLP at Bloomberg AI
+#### RecSys/NLP at Bloomberg AI
 
 - Recommendation & classification
 - NER/NED/Salience
@@ -8,7 +8,12 @@
 - Sequence tagging, slot-filling, structure extraction from texts
 - Pretraining and fine-tuning of LLMs
 
-#### Recommender Systems at GroupLens
+#### RecSys/ML/GenAI at Creator Incubation Research
+
+- The [Open Research Platform initiative](https://creatorincubationresearch.com/)
+- [5 AI-driven products](https://creatorincubationresearch.com/projects/) for user-centric research and field experiments
+
+#### RecSys/ML/HCI/Social Computing at GroupLens
 
 * See [my publications](https://will-qianzhao.github.io/publication/).
 * A generic recommender and predictor server.

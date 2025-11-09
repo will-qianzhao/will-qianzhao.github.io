@@ -1,11 +1,9 @@
 
 ### About Qian
 
-Qian Zhao is a researcher, engineer and entrepreneur in the fields of NLP/GenAI, Machine Learning and Recommender Systems.
+Qian Zhao is a researcher and engineer in the fields of Recommender Systems, NLP/GenAI and Machine Learning. Currently, he's a machine learning engineering manager at [Meta](https://engineering.fb.com/) based in Sunnyvale, California.
 
-Currently, he's the founder of [Creator Incubation Research](https://creatorincubationresearch.com) in the Los Angeles area, California. The company was founded to build AI-driven products with the latest technologies and conduct scientific research about them. 
-
-Before founding Creator Incubation Research, Qian was an AI engineering manager/team leader and senior researcher/engineer in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group, leading teams to gather high-quality annotation data, train, serve and maintain production LLMs/NLP models for various products in the financial data domain (e.g., news and research documents enrichement, security offer extraction from communication messages). 
+Before joining Meta, he founded [Creator Incubation Research](https://creatorincubationresearch.com) in the Los Angeles area to build AI-driven products with the latest technologies and conduct scientific research about them. Before relocating to California, Qian was an AI engineering manager/team leader and senior researcher/engineer in [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)'s AI Engineering group in New York, leading teams to gather data, train, serve and maintain production LLMs/NLP models for various products in the financial data domain (e.g., news and research documents enrichement, security offer extraction from communication messages). 
 
 Qian earned his Ph.D. in computer science from [the GroupLens lab](https://grouplens.org) at the University of Minnesota, where he was advised by [Professor Joe Konstan](http://konstan.umn.edu). Qian's research interests lie broadly at the intersection of machine learning and human-computer interaction (e.g., user-centered design and evaluation of online interactive recommender systems). Before that, he worked in industry in China for a few years, where he focused on large-scale data mining and machine learning systems for video recommendation and computational advertising products.
 

@@ -1,7 +1,10 @@
 
 #### After Ph.D.
 
-- March 2025 - Now, Founder and Managing Member of Creator Incubation Research, California, United States
+- November 2025 - Now, Full-time at Meta, Sunnyvale, United States
+    - ML Engineering Manager
+    - Recommender Systems, Ranking & GenAI/LLMs
+- March 2025 - October 2025, Founder of Creator Incubation Research, California, United States
     - See [creatorincubationresearch.com/projects](https://creatorincubationresearch.com/projects).
 - July 2018 - Feburary 2025, Full-time at Bloomberg AI, New York, United States
     - AI Team Lead/Engineering Manager, Senior Researcher/Engineer in the Artificial Intelligence group
